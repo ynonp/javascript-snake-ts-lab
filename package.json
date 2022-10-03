@@ -4,6 +4,8 @@
   "description": "[link]: https://davinism.github.io/javascript-snake/index",
   "main": "webpack.config.js",
   "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
