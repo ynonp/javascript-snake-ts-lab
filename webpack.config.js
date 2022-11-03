@@ -4,7 +4,7 @@ module.exports = {
   context: __dirname,
   mode: "production",
   devtool: 'inline-source-map',  
-  entry: "./js/main.ts",
+  entry: "./js/main.js",
   module: {
     rules: [
       {
